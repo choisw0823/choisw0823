@@ -1,4 +1,7 @@
 ### Hi there 👋
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=choisw0823&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=choisw0823&show_icons=true">
+
 
 <!--
 **choisw0823/choisw0823** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
