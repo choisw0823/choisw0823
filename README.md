@@ -1,7 +1,7 @@
 ### Seoung👋
 
 🔭 I’m currently studying in KAIST  <br>
-🌱 I’m interested in Graph and Multimodal AI<br>
+🌱 I’m interested in Graph and Multimodal AI<br><br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=choisw0823&layout=compact"> <br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=choisw0823&show_icons=true">
 
