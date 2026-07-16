@@ -3,7 +3,7 @@
 - 🎓 **B.S. in Computer Science**, **KAIST** (Class of 2021 - 2026)
   
 🔭 I’m currently studying in KAIST  <br>
-🌱 I’m interested in LLM, Multimodal AI, Agent, AGI<br><br>
+🌱  My research interests lie in building AI agents that can automate complex, multi-step tasks, and in advancing multimodal AI systems that better understand, reason over, and interact with visual information, particularly videos. <br><br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=choisw0823&layout=compact"> <br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=choisw0823&show_icons=true">
