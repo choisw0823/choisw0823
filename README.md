@@ -1,6 +1,6 @@
 ### Seoung👋
 - 🎓 **M.S. Candidate** in Computer Science, **KAIST** (MLV Lab, 2026 - Present)
-- 🎓 **B.S. in Computer Science**, **KAIST** (Class of 2021 - 2026)
+- 🎓 **B.S. in Computer Science**, **KAIST** (2021 - 2026)
   
 🔭 I’m currently studying in KAIST  <br>
 🌱  My research interests lie in building AI agents that can automate complex, multi-step tasks, and in advancing multimodal AI systems that better understand, reason over, and interact with visual information, particularly videos. <br><br>
